@@ -27,6 +27,4 @@ Variables:
 14. days: number of days that passed by after the client was last contacted from a previous campaign (numeric)
 15. revious: number of contacts performed before this campaign and for this client (numeric)
 16. outcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
-
-Target
 17. deposit: has the client subscribed a term deposit? (binary: 'yes','no')
